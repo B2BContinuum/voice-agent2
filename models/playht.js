@@ -3,7 +3,7 @@ async function initialize(){
     console.log('playht: initializing')
     PlayHT.init({
         apiKey: process.env.PLAY_API_KEY,
-        userId: process.env.PLAY_USERID,
+        userId: process.env.PLAYHT_USER_ID,
     });
 }
 async function play(text) {

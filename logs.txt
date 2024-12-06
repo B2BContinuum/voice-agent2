@@ -1,0 +1,96 @@
+
+2024-12-06T05:53:32.180Z : socket: client connected
+
+2024-12-06T05:53:44.346Z : deepgram_spoken: Testing.
+
+2024-12-06T05:53:45.017Z : groq response: It looks like you're testing to see if I'm working properly! That's perfectly fine. I'm happy to report that I'm up and running, ready to assist you with any questions or topics you'd like to discuss. Is there anything specific you'd like to chat about or ask? I'm all ears!
+
+2024-12-06T05:54:03.479Z : deepgram_spoken: Are you able to do a role play if I get
+
+2024-12-06T05:54:03.775Z : groq response: I'd be happy to engage in a role-play scenario with you. Please go ahead and set the scene, establish the characters, and let me know what kind of scenario you have in mind. Are you thinking fantasy, modern, historical, or something else?
+
+2024-12-06T05:54:06.591Z : deepgram_spoken: you a website, and I want you to play the role as a agent?
+
+2024-12-06T05:54:06.983Z : groq response: I can play the role of a agent for a website.
+
+Let's get started! What kind of website is it? Is it a real estate agency, a travel booking platform, an e-commerce site, or something else? Also, what's the scenario you'd like to play out? Are you a customer looking to buy/sell something, or do you have a specific question or issue you'd like to address?
+
+Please give me some details, and I'll respond accordingly as the agent.
+
+2024-12-06T05:54:25.993Z : socket: client disconnected
+
+2024-12-06T06:04:11.618Z : socket: client connected
+
+2024-12-06T06:10:10.912Z : socket: client disconnected
+
+2024-12-06T06:10:10.931Z : socket: client connected
+
+2024-12-06T06:10:39.446Z : socket: client disconnected
+
+2024-12-06T06:10:39.470Z : socket: client connected
+
+2024-12-06T06:13:05.591Z : socket: client disconnected
+
+2024-12-06T06:13:05.607Z : socket: client connected
+
+2024-12-06T06:28:17.847Z : socket: client disconnected
+
+2024-12-06T06:28:17.876Z : socket: client connected
+
+2024-12-06T06:49:04.281Z : socket: client disconnected
+
+2024-12-06T06:49:04.304Z : socket: client connected
+
+2024-12-06T06:49:38.826Z : deepgram_spoken: Hello?
+
+2024-12-06T06:49:39.284Z : groq response: Hi! It's nice to meet you. Is there something I can help you with or would you like to chat?
+
+2024-12-06T06:49:39.667Z : deepgram_spoken: Testing.
+
+2024-12-06T06:49:39.811Z : groq response: Testing complete! All systems go! How can I assist you today?
+
+2024-12-06T06:49:51.905Z : deepgram_spoken: No. The voice is coming really choppy.
+
+2024-12-06T06:49:52.279Z : groq response: Sorry to hear that the voice is coming through choppy. Can you try reloading the conversation or checking your internet connection to see if it improves? If the issue persists, feel free to type your message, and I'll do my best to help!
+
+2024-12-06T06:50:02.131Z : deepgram_spoken: Thank you.
+
+2024-12-06T06:50:03.089Z : groq response: You're welcome! If you're ready to move forward, I'm here to chat and help with any questions or topics you'd like to discuss. Just let me know what's on your mind!
+
+2024-12-06T06:50:09.801Z : socket: client disconnected
+
+2024-12-06T06:50:09.822Z : socket: client connected
+
+2024-12-06T07:07:19.395Z : socket: client disconnected
+
+2024-12-06T07:07:19.530Z : socket: client connected
+
+2024-12-06T07:32:32.220Z : socket: client disconnected
+
+2024-12-06T07:32:32.251Z : socket: client connected
+
+2024-12-06T07:34:58.952Z : socket: client disconnected
+
+2024-12-06T07:34:58.970Z : socket: client connected
+
+2024-12-06T07:36:32.619Z : socket: client disconnected
+
+2024-12-06T07:36:32.634Z : socket: client connected
+
+2024-12-06T07:39:08.055Z : deepgram_spoken: Testing.
+
+2024-12-06T07:39:08.636Z : groq response: Looks like the testing continues! If you're still experiencing issues with the voice, I'm here to help via text. What would you like to talk about or ask? I'm all ears (or in this case, all text)!
+
+2024-12-06T07:39:09.102Z : deepgram_spoken: Can you hear me?
+
+2024-12-06T07:39:09.429Z : groq response: I'm a text-based AI, so I don't have the ability to hear or receive audio inputs. I'm here to chat with you through text, though! Is there something you'd like to talk about or ask? I'm here to help.
+
+2024-12-06T07:39:26.206Z : socket: client disconnected
+
+2024-12-06T07:39:26.225Z : socket: client connected
+
+2024-12-06T07:40:57.833Z : socket: client disconnected
+
+2024-12-06T07:40:57.853Z : socket: client connected
+
+2024-12-06T07:45:14.265Z : socket: client disconnected

@@ -200,4 +200,58 @@ console.log('2stopping previous audio')
   async function closeMicrophone(microphone) {
     microphone.stop();
   }
+
+  // Agent Showcase Functionality
+  const agentData = [
+    {
+      name: "Analytics",
+      description: "Processes and analyzes large datasets to extract valuable insights",
+      capabilities: ["Data Processing", "Pattern Recognition", "Predictive Analytics"],
+      icon: "fa-chart-bar"
+    },
+    {
+      name: "Automation",
+      description: "Natural language processing for task automation and workflow optimization",
+      capabilities: ["Natural Language", "Context Understanding", "Task Management"],
+      icon: "fa-robot"
+    },
+    {
+      name: "Vision",
+      description: "Advanced computer vision for image and video processing",
+      capabilities: ["Object Detection", "Image Analysis", "Visual Search"],
+      icon: "fa-camera"
+    }
+  ];
+
+  const agentCards = document.querySelectorAll('.agent-card');
+  const agentDetails = document.querySelector('.agent-details');
+
+  function updateAgentDetails(index) {
+    const agent = agentData[index];
+    agentDetails.innerHTML = `
+      <div class="agent-content" data-index="${index}">
+        <div class="icon-large">
+          <i class="fas ${agent.icon}"></i>
+        </div>
+        <div class="content">
+          <h3>${agent.name}</h3>
+          <p>${agent.description}</p>
+          <ul>
+            ${agent.capabilities.map(cap => `<li>${cap}</li>`).join('')}
+          </ul>
+        </div>
+      </div>
+    `;
+  }
+
+  agentCards.forEach((card, index) => {
+    card.addEventListener('click', () => {
+      // Update active state
+      agentCards.forEach(c => c.classList.remove('active'));
+      card.classList.add('active');
+      
+      // Update details
+      updateAgentDetails(index);
+    });
+  });
 });
